@@ -9,6 +9,8 @@ class Program
         // Crear dos corredores
         Thread corredorA = new Thread(Correr); //creación de objetos thread, los cuales son hilos
         Thread corredorB = new Thread(Correr); //ambos hilos usraán la función correr 
+        Thread corredorC = new Thread(Correr); //Se crearón nuevos corredores 
+        Thread corredorD = new Thread(Correr);
         //en este punto los hilos están creados pero aun no han comenzado a ejecutarse 
 
         corredorA.Start("Corredor A"); //inicia la ejecución del hilo con .statrt
