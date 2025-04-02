@@ -1,0 +1,15 @@
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\bin\Debug\net8.0\Hilos1.exe
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\bin\Debug\net8.0\Hilos1.deps.json
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\bin\Debug\net8.0\Hilos1.runtimeconfig.json
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\bin\Debug\net8.0\Hilos1.dll
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\bin\Debug\net8.0\Hilos1.pdb
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\Hilos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\Hilos1.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\Hilos1.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\Hilos1.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\Hilos1.sourcelink.json
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\Hilos1.dll
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\refint\Hilos1.dll
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\Hilos1.pdb
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\Hilos1.genruntimeconfig.cache
+C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos VisualStudio\Hilos1\Hilos1\obj\Debug\net8.0\ref\Hilos1.dll
